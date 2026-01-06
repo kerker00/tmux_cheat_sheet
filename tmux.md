@@ -25,3 +25,5 @@ tmux ls
 ```
 
 ## Session
+
+Modifier key is set to Ctr+a, therefore this Cheat Sheet is related to the config file in this repository

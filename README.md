@@ -110,7 +110,7 @@ erkennbar machen:
 - Das aktive Fenster wird mit schwarzer Schrift auf rotem Hintergrund markiert.
 - Inaktive Fenster verwenden eine dunkle Flaeche mit roter Schrift.
 - Meldungen erscheinen gelb auf rot und sind dadurch auch bei kurzen tmux-
-	Rueckmeldungen gut sichtbar.
+  Rueckmeldungen gut sichtbar.
 - Die Uhr im Clock Mode verwendet Gelb als Akzentfarbe.
 
 Das aktive Element ist damit auf zwei Ebenen sichtbar: am Pane-Rand und in der
